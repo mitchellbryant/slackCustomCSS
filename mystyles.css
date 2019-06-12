@@ -1,4 +1,4 @@
-body { background: #222; color: #995858; }
+body { background: #222; color: #e6e6e6; }
 
 a { color: #949494; }
 
@@ -418,7 +418,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message__editor__warning { color: #bf360c; }
 
-.c-message .c-button { border-color: #424242; }
+.c-message .c-button { border-color: #e2baba; }
 
 .c-message .c-button--outline { background-color: #363636; color: #949494; }
 

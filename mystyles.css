@@ -420,11 +420,11 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .c-message .c-button { border-color: #e2baba; }
 
-.c-message .c-button--outline { background-color: #363636; color: #949494; }
+.c-message .c-button--outline { background-color: #e2baba; color: #e2baba; }
 
 .c-message .c-button--outline:hover { color: #c7c7c7; }
 
-.c-message .c-button--primary { background-color: #545454; color: #e6e6e6; }
+.c-message .c-button--primary { background-color: #e2baba; color: #e2baba; }
 
 #message_edit_container .message_input { background: #545454; border-color: #363636; color: #e6e6e6; }
 
